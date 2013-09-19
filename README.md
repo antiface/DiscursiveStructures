@@ -1,4 +1,15 @@
-DiscursiveStructures
-====================
+Discursive Structures:
+======================
 
-Discursive Structures: Code, Culture, Communication
+* Code
+    * Coding
+        * Encoding/Decoding
+    * Efficiency
+* Culture
+    * Coding
+        * Encoding/Decoding
+    * Efficiency
+* Communication
+    * Coding
+        * Encoding/Decoding
+    * Efficiency
