@@ -1,15 +1,15 @@
 Discursive Structures:
 ======================
 
-* Code
+* **Code**
     * Coding
         * Encoding/Decoding
     * Efficiency
-* Culture
+* **Culture**
     * Coding
         * Encoding/Decoding
     * Efficiency
-* Communication
+* **Communication**
     * Coding
         * Encoding/Decoding
     * Efficiency
