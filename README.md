@@ -1,17 +1,17 @@
 Discursive Structures:
 ======================
 
-* **Code**
+* [**Code**] (https://github.com/antiface/DiscursiveStructures/tree/master/Code)
     * Coding
         * Encoding/Decoding
     * Efficiency
         * Compression
-* **Culture**
+* [**Culture**] (https://github.com/antiface/DiscursiveStructures/tree/master/Culture)
     * Coding
         * Encoding/Decoding
     * Efficiency
         * Compression
-* **Communication**
+* [**Communication**] (https://github.com/antiface/DiscursiveStructures/tree/master/Communication)
     * Coding
         * Encoding/Decoding
     * Efficiency
