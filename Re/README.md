@@ -1,2 +1,5 @@
 Re-
 ===
+* -Construction
+* -Formation
+* -Structuring
