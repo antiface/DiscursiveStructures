@@ -15,7 +15,7 @@ Discursive Structures:
     * Coding
         * Encoding/Decoding
     * Efficiency
-        *Compression
+        * Compression
 
 ## [BACK TO INDEX OF REPOSITORIES] (https://github.com/antiface/Index)
 
