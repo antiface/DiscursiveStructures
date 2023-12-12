@@ -1,5 +1,6 @@
 Discursive Structures:
 ======================
+Stable Release v1.0.1 [![DOI](https://zenodo.org/badge/12953776.svg)](https://zenodo.org/doi/10.5281/zenodo.10361848)
 
 * [**Code**](https://github.com/antiface/DiscursiveStructures/tree/master/Code)
     * Coding
